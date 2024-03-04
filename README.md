@@ -16,11 +16,15 @@ This analysis aims to demonstrate the skills of web scraping, data cleaning, exp
 - Octoparse
 - Google Chrome
 
-## Languages Used
+## Language Used
 - R
 
 
 ## R Analysis
+- Web Scraping
+- Data Cleaning
+- EDA
+- Data Visualization
 
 
 ## Datasets
