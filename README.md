@@ -3,7 +3,7 @@
 **Author**: Clint Barnard-El <br />
 **Email**: barnard.clint@yahoo.com <br />
 **LinkedIn**: https://www.linkedin.com/in/clintbarnardel/  <br />
-**Dataset**: [Google Scholar search results](https://www.kaggle.com/datasets/clintbel/aa-history-google-scholar-feb-2024/data) <br />
+**Dataset**: [Google Scholar Web Scraping](https://www.kaggle.com/datasets/clintbel/aa-history-google-scholar-feb-2024/data) <br />
 
 ## Introduction
 
@@ -20,11 +20,11 @@ This analysis aims to demonstrate the skills of web scraping, data cleaning, exp
 - R
 
 
-## R Analysis
+## Skills Used
 - Web Scraping
 - Data Cleaning
 - EDA
-- Data Visualization
+- [Data Visualization (Tableau)](https://public.tableau.com/views/TopAfrican-AmericanHistoryBooks/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ## Datasets
