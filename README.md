@@ -3,7 +3,7 @@
 **Author**: Clint Barnard-El <br />
 **Email**: barnard.clint@yahoo.com <br />
 **LinkedIn**: https://www.linkedin.com/in/clintbarnardel/  <br />
-**Dataset**: [500 published works on African-American history](https://www.kaggle.com/datasets/clintbel/aa-history-google-scholar-feb-2024/data) <br />
+**Dataset**: [Google Scholar search results](https://www.kaggle.com/datasets/clintbel/aa-history-google-scholar-feb-2024/data) <br />
 
 ## Introduction
 
