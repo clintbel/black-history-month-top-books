@@ -1,4 +1,4 @@
-# Data Analytics Project (R Based)
+# Case Study - Web Scraping - Published Books (Google Scholar)
 
 **Author**: Clint Barnard-El <br />
 **Email**: barnard.clint@yahoo.com <br />
